@@ -32,7 +32,7 @@
 >To create the smallest heading we use six # symbols.
 >
 > ## **When making text bold or italicized for emphasis, it is best practice to use which symbol?**
->The best practice to use bold is to use ** word ** and italics *word*
+>The best practice to use bold is to use ** word ** and italics * work * 
 >
 >## **How do you create a link with Markdown?**
 >To create a link you will use a combination of brackets.
