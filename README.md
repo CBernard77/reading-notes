@@ -18,7 +18,7 @@
 
 
 > ## **Why do we use Markdown?**
-> We can use markdown to create websites, documents, notes, books, presentations, email messages and technical socumentations.
+> We can use markdown to create websites, documents, notes, books, presentations, email messages and technical documentations.
 
 
 > ## **What symbol will create a heading in Markdown?**
