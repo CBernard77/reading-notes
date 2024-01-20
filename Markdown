@@ -1,4 +1,4 @@
-**What is Markdown?**
+> **What is Markdown?**
 Markdown is a language that we use to add formatting elements to a document. We 
 
 **Why do we use Markdown?**
