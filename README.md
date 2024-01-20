@@ -39,6 +39,6 @@
 >
 > ## **What are the three symbols you can use to create an unordered (bulleted) list with Markdown?**
 >To create an unordered bulleted list in Markdown you can use the following three symbols:
-> - * +
+> -  *   +
 >
 >
