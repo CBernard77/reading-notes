@@ -10,7 +10,8 @@ Hi, I’m Cruzaida but I prefer Z. I just start this journey of learning coding.
   I will contact profesor or classmate if I am struguling.
   I will try to keep my motivation high when I start loosing interest.
 
-**What is Markdown?**
+
+> **What is Markdown?**
 Markdown is a language that we use to add formatting elements to a document. We 
 
 **Why do we use Markdown?**
