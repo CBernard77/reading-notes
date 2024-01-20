@@ -1,5 +1,5 @@
 INTRODUCTION
-Hi, I’m Cruzaida but I prefer Z. I just start this journey of learning coding. My backgroung is in pharmacy and plenty of customer service. You are free to contac me at [CBernard77](https://github.com/CBernard77.com)
+Hi, I’m Cruzaida but I prefer Z. I just start this journey of learning coding. My backgroung is in pharmacy and plenty of customer service. You are free to contac me at [CBernard77](https://github.com/CBernard77)
 
 GROWTH MINDSET
   The growth mindset is when you have a love for learning. When you are in constand need of growing your knowledge, an example can be learning a new language if that is your intertest. I you enjoy cooking learning a new receipe a week will keep you in that path. 
