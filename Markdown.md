@@ -1,5 +1,5 @@
 > **What is Markdown?**
-Markdown is a language that we use to add formatting elements to a document. We 
+Markdown is a language that we use to add formatting elements to a document. 
 
 **Why do we use Markdown?**
 We can use markdown to create websites, documents, notes, books, presentations, email messages and technical socumentations.
