@@ -1,4 +1,4 @@
->**What are four important features to look for in a text editor?**
+>## **What are four important features to look for in a text editor?**
 >
 >Code Completion
 >
@@ -8,7 +8,7 @@
 >
 >An extensive selection of extensions
 >
->**What do the following commands do?**
+>## **What do the following commands do?**
 >
 >pwd this command prints the current working directory.
 >ls this command prints the contents of the current working directory.
@@ -16,7 +16,7 @@
 >mkdir this command creates a new directory.
 >touch this command creates a new empty file.
 >
->**Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line?**
+>## **Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line?**
 >
 >cd projects
 >mkdir new-project
