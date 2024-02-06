@@ -1,7 +1,8 @@
-> What is Version Control
-Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
+>##What is Version Control**
+>
+>Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
 
-Cloning
+>##Cloning## 
 
 git clone is the command used to clone an existing repository to where you specify on your computer.
 
