@@ -11,3 +11,6 @@
 > - I will set up time to sit down and read material and homework for the classes.
 > - I will contact profesor or classmate if I am struguling.
 > - I will try to keep my motivation high when I start loosing interest.
+> -
+> 
+[revisionandcloud](./revisionandthecloud.md)
