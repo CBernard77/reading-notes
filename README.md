@@ -12,5 +12,16 @@
 > - I will contact profesor or classmate if I am struguling.
 > - I will try to keep my motivation high when I start loosing interest.
 > -
-> 
-[revisionandcloud](./revisionandthecloud.md)
+>
+> ## Code 102 - Intro to Sofware Development
+>
+> - [Learning Markdown] (102/class01.md)
+> - [The Coder's Computer] (102/class02.md)
+> - [Revision and the Clous] (102/class03.md)
+> - [Structure web pages with HTML] (102/class04.md)
+> - [Design Web Pages with CSI] (102/class05.md)
+> - [Dynamic Web Pages with JavaScript] (102/class06.md)
+> - [Programming with JavaScript] (102/class07.md)
+> - [Operators and Loops] (102/class08.md)
+>
+> - ## Code 201
