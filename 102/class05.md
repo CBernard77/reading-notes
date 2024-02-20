@@ -4,12 +4,13 @@ CSS (Cascading Style Sheets) allows you to create great-looking web page. Using 
 
 ## What are the three ways to insert CSS into your project?
 
-The
+External which includes a CSS source file in the HTML. 
+Internal which is just CSS in the HTML document itself.
+Inline which provides styling directly in the HTML element. 
 
 
 ## Write an example of a CSS rule that would give all <p> elements red text.
-
-Attrib
+To turn all the paragraph element text red you could: p { color: red; }
 
 
 
