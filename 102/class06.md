@@ -15,7 +15,7 @@ Declaring variables is one of the fundamental concepts in JavaScript. Variables 
 
 ## What is an “assignment” operator, and what does it do?
 
-In programmin , an assignment ( = ) operator is used to assign a value to a variable.  It's denoted by the equals sign =. When you use the assignment operator, you're essentially telling the computer to store a particular value in a variable.
+In programming , an assignment ( = ) operator is used to assign a value to a variable.  It's denoted by the equals sign =. When you use the assignment operator, you're essentially telling the computer to store a particular value in a variable.
 
 ## What is information received from the user called?
 
